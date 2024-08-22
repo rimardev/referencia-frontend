@@ -1,15 +1,15 @@
 ## Referencia Media Queries.
 
-### Tabla de Breakpoints y Comandos
+### Tabla de Breakpoints referenciales de Bootstrap
 
-| **Breakpoint**       | **Comando**                    |
-|----------------------|--------------------------------|
-| Móvil (pequeño)      | `@media (max-width: 576px)`    |
-| Móvil (mediano)      | `@media (max-width: 768px)`    |
-| Tablet (mediano)     | `@media (max-width: 992px)`    |
-| Tablet (grande)      | `@media (max-width: 1200px)`   |
-| Escritorio (grande) | `@media (max-width: 1400px)`   |
-| Escritorio (extra grande)  | `@media (min-width: 1401px)`   |
+| **Breakpoint**       | **Dimension**   | **Class Bootstrap**  |
+|----------------------|-----------------|----------------------|
+| Extra small          | `<576px`        | none                 |
+| Small                | `≥576px`        | _sm_                 |
+| Medium               | `≥768px`        | _md_                 |
+| Large                | `≥992px`        | _lg_                 |
+| Extra large          | `≥1200px`       | _xl_                 |
+| Extra extra large    | `≥1400px`       | _xxl_                |
 
 ---
 
