@@ -9,7 +9,7 @@
 | Tablet (mediano)     | `@media (max-width: 992px)`    |
 | Tablet (grande)      | `@media (max-width: 1200px)`   |
 | Escritorio (grande) | `@media (max-width: 1400px)`   |
-| Escritorio (xgrande)  | `@media (min-width: 1401px)`   |
+| Escritorio (extra grande)  | `@media (min-width: 1401px)`   |
 
 ---
 
