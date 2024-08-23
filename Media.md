@@ -1,7 +1,5 @@
 ## Referencia Media Queries.
 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-
 ### Tabla de Breakpoints referenciales de Bootstrap
 
 | **Breakpoint**       | **Dimension**   | **Class Bootstrap**  |
