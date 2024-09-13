@@ -16,7 +16,7 @@
 ### Ejemplo de Uso
 
 ```css
-@media (max-width: 576px) {
+@media (min-width: 576px) {
     body {
         background: black;
     }
