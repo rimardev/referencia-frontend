@@ -1,6 +1,6 @@
 # GIT y GITHUB Referencia rapida
 
-### Configuracion Inicial
+## Configuracion Inicial
 ``` css
 git config --global user.name "tunombre"
 git config --global user.email tucorreo
@@ -12,7 +12,7 @@ git config --global core.autocrlf true
 git config --list
 ```
 
-# Configuracion SSH
+## Configuracion SSH
 
 1. Verificar si existe un ssh
 ```css
