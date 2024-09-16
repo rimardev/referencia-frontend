@@ -70,4 +70,4 @@ origin  git@github.com:rimardev/referencia-frontend.git (push)
 ```
 2. Comparar en Github si es la misma url
 
-![screenssh02]()
+![screenssh02](https://github.com/rimardev/referencia-frontend/blob/main/img/set-github-ssh02.jpg)
