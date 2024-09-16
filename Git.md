@@ -1,1 +1,49 @@
-# Referencia rapida para GIT y GITHUB
+# GIT y GITHUB Referencia rapida
+
+## Configuracion Inicial
+``` css
+git config --global user.name "tunombre"
+git config --global user.email tucorreo
+git config --global core.editor "code --wait"
+git config --global core.autocrlf true
+```
+### Verificar configuracion
+``` css
+git config --list
+```
+
+## Configuracion SSH
+### Configuracion en mi maquina
+
+1. Verificar si existe un ssh
+```css
+ls -al ~/.ssh
+```
+
+2. Generar una key ssh
+```css
+ssh-keygen -t rsa -b 4096 -C "tucorreo@gmail.com"
+```
+Se generar 2 keys SSH `id_rsa` *key privada* y `id_rsa.pub` *key publica*, las cuales quedan guardadas en la carpeta .ssh
+
+- Opcion alternativa NO Usar
+```css
+ssh-keygen -t ed25519 -C "tucorreo@gmail.com"
+```
+
+3. Correr Agente-ssh en GitBash
+```css
+eval "$(ssh-agent -s)"
+```
+
+4. Agregar key privada en GitBash
+```css
+ssh-add ~/.ssh/id_rsa
+```
+### Configuracion en mi Github
+
+1. Copiar el contenido de la key publica `id_rsa.pub` al portapapeles
+```css
+clip < ~/.ssh/id_rsa.pub
+```
+2. Entrar a nuestra cuenta de Github he ir a:  `Setting > Add SSH Key > New SSH Key`
