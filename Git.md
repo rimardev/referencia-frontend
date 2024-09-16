@@ -41,3 +41,9 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_rsa
 ```
 ### Configuracion en mi Github
+
+1. Copiar el contenido de la key publica `id_rsa.pub` al portapapeles
+```css
+clip < ~/.ssh/id_rsa.pub
+```
+2. Entrar a nuestra cuenta de Github he ir a:  `Setting > Add SSH Key > New SSH Key`
