@@ -13,6 +13,7 @@ git config --list
 ```
 
 ## Configuracion SSH
+### Configuracion en mi maquina
 
 1. Verificar si existe un ssh
 ```css
@@ -39,3 +40,4 @@ eval "$(ssh-agent -s)"
 ```css
 ssh-add ~/.ssh/id_rsa
 ```
+### Configuracion en mi Github
