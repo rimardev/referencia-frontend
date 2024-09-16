@@ -12,7 +12,7 @@
 | `align-content` | Alinea las líneas del contenedor cuando hay espacio adicional en el eje transversal. Solo aplica cuando hay múltiples líneas. Valores: `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`. |
 | `gap`           | Define la separación entre los elementos flexibles (espacio entre filas y columnas).                                                                   |
 
-### Propiedades de las Flex Items
+### Propiedades de los Flex Items
 
 | Propiedad    | Descripción                                                                                               |
 |--------------|-----------------------------------------------------------------------------------------------------------|
