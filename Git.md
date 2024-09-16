@@ -12,7 +12,7 @@ git config --global core.autocrlf true
 git config --list
 ```
 
-## Configuracion SSH
+# Configuracion SSH
 
 1. Verificar si existe un ssh
 ```css
