@@ -48,6 +48,13 @@ clip < ~/.ssh/id_rsa.pub
 ```
 Luego entrar a nuestra cuenta de Github he ir a:
    
-   [1]Setting --> [2]SSH and GPG Keys --> [3]New SSH Key
+[1]Setting --> [2]SSH and GPG Keys --> [3]New SSH Key
+
 ![screenssh00](https://github.com/rimardev/referencia-frontend/blob/main/img/set-github-ssh00.jpg)
 
+En este formulario llenar con lo siguiente:
+- [4]Poner un Titulo Identificatorio
+- [5]Copiar el contenido del portapapeles
+- [6]Hacer click en `Add SSH Key`
+
+![screenssh01](https://github.com/rimardev/referencia-frontend/blob/main/img/set-github-ssh01.jpg)
