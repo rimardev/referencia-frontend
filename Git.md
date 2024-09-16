@@ -21,12 +21,14 @@ ls -al ~/.ssh
 
 2. Generar una key ssh
 ```css
-ssh-keygen -t ed25519 -C "rimar.basaa@gmail.com"
+ssh-keygen -t rsa -b 4096 -C "tucorreo@gmail.com"
 ```
+Se generar 2 keys SSH `id_rsa` *key privada* y `id_rsa.pub` *key publica*, las cuales quedan guardadas en la carpeta .ssh
 
-- $ ssh-keygen -t rsa -b 4096 -C "rimar.basaa@gmail.com"
-// id_rsa: key privada (mia)
-// id_rsa.pub: key publica
+- Opcion alternativa NO Usar
+```css
+ssh-keygen -t ed25519 -C "tucorreo@gmail.com"
+```
 
 3. Correr Agente-ssh en GitBash
 - $ eval "$(ssh-agent -s)"
