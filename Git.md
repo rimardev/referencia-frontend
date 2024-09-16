@@ -42,8 +42,12 @@ ssh-add ~/.ssh/id_rsa
 ```
 ### Configuracion en mi Github
 
-1. Copiar el contenido de la key publica `id_rsa.pub` al portapapeles
+Primero Copiar el contenido de la key publica `id_rsa.pub` al portapapeles
 ```css
 clip < ~/.ssh/id_rsa.pub
 ```
-2. Entrar a nuestra cuenta de Github he ir a:  `Setting > Add SSH Key > New SSH Key`
+Luego entrar a nuestra cuenta de Github he ir a:
+   
+   [1]Setting --> [2]SSH and GPG Keys --> [3]New SSH Key
+![screenssh00](https://github.com/rimardev/referencia-frontend/blob/main/img/set-github-ssh00.jpg)
+
