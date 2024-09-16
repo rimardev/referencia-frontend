@@ -17,7 +17,8 @@ git config --list
 
 1. Verificar si existe un ssh
 ```css
-ls -al ~/.ssh
+ls -al ~/.ssh /*verifica si existe un ssh*/
+ssh-keygen -t rsa -b 4096 -C "tucorreo@gmail.com" /*genera una key ssh*/
 ```
 
 2. Generar una key ssh
