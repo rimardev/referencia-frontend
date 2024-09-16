@@ -31,7 +31,11 @@ ssh-keygen -t ed25519 -C "tucorreo@gmail.com"
 ```
 
 3. Correr Agente-ssh en GitBash
-- $ eval "$(ssh-agent -s)"
+```css
+eval "$(ssh-agent -s)"
+```
 
 4. Agregar key privada en GitBash
-- $ ssh-add ~/.ssh/id_rsa
+```css
+ssh-add ~/.ssh/id_rsa
+```
