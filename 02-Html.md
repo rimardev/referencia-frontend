@@ -109,3 +109,8 @@ En HTML, el elemento `<select>` se utiliza para crear un menú desplegable donde
   <option value="valor3">Opción 3</option>
 </select>
 ```
+### Atributos importantes
+- `name`: Nombre que se enviará en el formulario.
+- `multiple`: Permite seleccionar más de una opción (si se especifica).
+- `disabled`: Desactiva el menú desplegable.
+- `size`: Define cuántas opciones se muestran al mismo tiempo (sin desplegar).
