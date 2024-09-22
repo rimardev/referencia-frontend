@@ -2,7 +2,7 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-Este repositorio está diseñado como una **referencia rápida** para desarrollo frontend, cubriendo los conceptos esenciales de **HTML**, **CSS**, **Flexbox**, **Grid**, **Media Queries**, **Transiciones**, **Transformaciones** y **Animaciones**. Aquí encontrarás datos concisos, además de enlaces rápidos a documentación externa para profundizar en cada tema.
+Este repositorio está diseñado como una **referencia rápida** para desarrollo frontend, cubriendo los conceptos esenciales de **HTML**, **CSS**, **Flexbox**, **Grid**, **Media Queries**, **Transiciones**, **Transformaciones** y **Animaciones**. Aquí encontrarás datos concisos ideal para consultas rápidas durante la programación, además de enlaces rápidos a documentación externa para profundizar en cada tema.
 
 ## Contenidos
 
@@ -10,21 +10,25 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - Estructura básica de un documento HTML.
    - Etiquetas semánticas.
    - Mejores prácticas.
+   - [Documentación de HTML (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### 2. **CSS**
    - Selectores y combinadores.
    - Propiedades comunes (colores, fuentes, bordes, etc.).
    - Buenas prácticas para escribir CSS limpio y mantenible.
+   - [Documentación de CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 3. **Flexbox**
    - Guía rápida de los contenedores flexibles.
    - Alineación, distribución y manipulación de elementos en un contenedor flexible.
    - [Documentación Flexbox (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
+   - [Guía de Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### 4. **Grid**
    - Cómo crear diseños con CSS Grid.
    - Definición de áreas, columnas y filas.
    - [Documentación CSS Grid (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout)
+   - [Guía de CSS Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### 5. **Media Queries**
    - Adaptación de diseños a diferentes tamaños de pantalla.
@@ -46,13 +50,5 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - Control de duración, repetición y sincronización de las animaciones.
    - [Documentación Animaciones (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/animation)
 
-## Enlaces Rápidos a Documentación Externa
-
-- [Documentación de HTML (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Documentación de CSS (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Guía de Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [Guía de CSS Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
 ---
-
-Este README proporciona una visión rápida y accesible de los fundamentos del desarrollo frontend. Ideal para consultas rápidas durante la codificación o para aprender conceptos clave en detalle.
+Readme en construccion....
