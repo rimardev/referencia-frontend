@@ -7,12 +7,11 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 ## Contenidos
 
 ### 1. **HTML**
-   - Estructura básica de un documento HTML.
    - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/02-Html.md)
    - [Documentación externa de HTML (MDN)](https://developer.mozilla.org/es/docs/Web/HTML)
 
 ### 2. **CSS**
-   - Referencia rapida.   
+   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/03-Css.md)   
    - [Documentación externa de CSS (MDN)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ### 3. **Flexbox**
