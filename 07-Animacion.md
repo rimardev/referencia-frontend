@@ -37,8 +37,8 @@ Si bien los componenetes se pueden usar por separado lo habitual es usarlo en un
 
 Nota: _La opción cubic-bezier es la más avanzada, ya que te permite personalizar la curva de aceleración._
 
-
+---
 ## Transformaciones (transform)
 
-
+---
 ## Animaciones (animations)
