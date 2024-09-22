@@ -36,11 +36,11 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - [Documentación externa Transiciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 ### 7. **Transformaciones**
-   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/07-Animacion.md)
+   - Referencia rapida.
    - [Documentación externa Transformaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/transform)
 
 ### 8. **Animaciones**
-   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/07-Animacion.md)
+   - Referencia rapida.
    - [Documentación externa Animaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/animation)
 
 ### 9. **Bootstrap**
