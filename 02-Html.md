@@ -1,5 +1,5 @@
 # HTML Referencia rapida
-## Tabla de Tags HTML Más Usados
+## Tags HTML Más Usados
 
 | Tag          | Descripción                                                                            | Ejemplo                                      |
 |--------------|----------------------------------------------------------------------------------------|----------------------------------------------|
