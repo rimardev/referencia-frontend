@@ -24,7 +24,7 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 ### 4. **Grid**
    - Cómo crear diseños con CSS Grid.
    - Definición de áreas, columnas y filas.
-   - [Documentación CSS Grid (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+   - [Documentación CSS Grid (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout)
 
 ### 5. **Media Queries**
    - Adaptación de diseños a diferentes tamaños de pantalla.
