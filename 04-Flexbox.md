@@ -8,9 +8,9 @@
 | `flex-direction`| Dirección en la que se colocarán los items dentro del contenedor: [`row`] [`row-reverse`] [`column`] [`column-reverse`].   |
 | `flex-wrap`     | Define si los items deben ajustarse o no a múltiples líneas: [`nowrap`] [`wrap`] [`wrap-reverse`].                                  |
 | `justify-content`| Alinea los items a lo largo del eje principal: [`flex-start`] [`flex-end`] [`center`] [`space-between`] [`space-around`] [`space-evenly`]. |
-| `align-items`   | Alinea los elementos flexibles a lo largo del eje transversal (perpendicular al principal). Valores: `flex-start`, `flex-end`, `center`, `baseline`, `stretch`. |
-| `align-content` | Alinea las líneas del contenedor cuando hay espacio adicional en el eje transversal. Solo aplica cuando hay múltiples líneas. Valores: `flex-start`, `flex-end`, `center`, `space-between`, `space-around`, `stretch`. |
-| `gap`           | Define la separación entre los elementos flexibles (espacio entre filas y columnas).                                                                   |
+| `align-items`   | Alinea los items a lo largo del eje transversal: [`flex-start`] [`flex-end`] [`center`] [`baseline`] [`stretch`]. |
+| `align-content` | Alinea las líneas del contenedor cuando hay espacio adicional en el eje transversal. Solo aplica cuando hay múltiples líneas: [`flex-start`] [`flex-end`] [`center`] [`space-between`] [`space-around`] [`stretch`]. |
+| `gap`           | Define la separación entre los items (espacio entre filas y columnas).                                                                   |
 
 ### Propiedades de los Flex Items
 
