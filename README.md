@@ -44,7 +44,7 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - [Documentación externa Animaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/animation)
 
 ### 10. **Git y Github**
-   - Referencia rapida.
+   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/01-Git.md)
    - Documentacion externa.
 
 ---
