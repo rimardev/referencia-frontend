@@ -31,3 +31,69 @@
 | `<aside>`    | Define contenido secundario relacionado, como una barra lateral.                       | `<aside>...</aside>`                         |
 
 ## Extructura basica de HTML
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Título de la Página</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlace a tu archivo CSS -->
+  </head>
+  <body>
+    <header>
+      <h1>Encabezado Principal</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Inicio</a></li>
+          <li><a href="#">Acerca</a></li>
+          <li><a href="#">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+  
+    <main>
+      <section>
+        <h2>Sección 1</h2>
+        <p>Este es un párrafo dentro de la sección.</p>
+      </section>
+      
+      <section>
+        <h2>Sección con una Tabla</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Nombre</th>
+              <th>Edad</th>
+              <th>Ciudad</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Juan Pérez</td>
+              <td>30</td>
+              <td>Madrid</td>
+            </tr>
+            <tr>
+              <td>María López</td>
+              <td>25</td>
+              <td>Barcelona</td>
+            </tr>
+            <tr>
+              <td>Carlos Sánchez</td>
+              <td>28</td>
+              <td>Sevilla</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </main>
+  
+    <footer>
+      <p>2024 Todos los derechos reservados.</p>
+    </footer>
+  
+  </body>
+</html>
+```
