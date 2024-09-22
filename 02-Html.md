@@ -30,3 +30,4 @@
 | `<article>`  | Define contenido independiente y autocontenido.                                        | `<article>...</article>`                     |
 | `<aside>`    | Define contenido secundario relacionado, como una barra lateral.                       | `<aside>...</aside>`                         |
 
+## Extructura basica de HTML
