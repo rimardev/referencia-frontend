@@ -19,7 +19,7 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 ### 3. **Flexbox**
    - Guía rápida de los contenedores flexibles.
    - Alineación, distribución y manipulación de elementos en un contenedor flexible.
-   - [Documentación Flexbox (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+   - [Documentación Flexbox (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 
 ### 4. **Grid**
    - Cómo crear diseños con CSS Grid.
