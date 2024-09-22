@@ -16,8 +16,8 @@
 
 | Propiedad    | Descripción                                                                                               |
 |--------------|-----------------------------------------------------------------------------------------------------------|
-| `order`      | Cambia el orden en el que se muestran los elementos flexibles dentro del contenedor. Valor por defecto: `0`. |
-| `flex-grow`  | Define la capacidad de un elemento flexible para crecer si es necesario. Valor por defecto: `0`.           |
-| `flex-shrink`| Define la capacidad de un elemento flexible para encogerse si es necesario. Valor por defecto: `1`.        |
-| `flex-basis` | Define el tamaño base de un elemento antes de que se distribuyan los espacios disponibles. Valores: cualquier valor de tamaño CSS. |
-| `align-self` | Alinea un solo elemento flexible a lo largo del eje transversal, sobrescribiendo `align-items` del contenedor. Valores: `auto`, `flex-start`, `flex-end`, `center`, `baseline`, `stretch`. |
+| `order`      | Cambia el orden en el que se muestran los items dentro del contenedor. Valor por defecto: [`0`]. |
+| `flex-grow`  | Define la capacidad de un items para crecer si es necesario. Valor por defecto: [`0`].           |
+| `flex-shrink`| Define la capacidad de un items para encogerse si es necesario. Valor por defecto: [`1`].        |
+| `flex-basis` | Define el tamaño base de un item antes de que se distribuyan los espacios disponibles. Valores: cualquier valor de tamaño CSS. |
+| `align-self` | Alinea un solo item a lo largo del eje transversal, sobrescribiendo [`align-items`] del contenedor. Valores: [`auto`] [`flex-start`] [`flex-end`] [`center`] [`baseline`] [ `stretch`]. |
