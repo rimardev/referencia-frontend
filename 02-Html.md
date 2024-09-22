@@ -30,6 +30,7 @@
 | `<article>`  | Define contenido independiente y autocontenido.                                        | `<article>...</article>`                     |
 | `<aside>`    | Define contenido secundario relacionado, como una barra lateral.                       | `<aside>...</aside>`                         |
 
+---
 ## Extructura basica de HTML
 ```html
 <!DOCTYPE html>
@@ -96,4 +97,15 @@
   
   </body>
 </html>
+```
+---
+## Extructura de Tag select
+En HTML, el elemento `<select>` se utiliza para crear un menú desplegable donde el usuario puede seleccionar una opción o varias opciones de una lista.
+### Sintaxis basica
+```html
+<select name="nombre">
+  <option value="valor1">Opción 1</option>
+  <option value="valor2">Opción 2</option>
+  <option value="valor3">Opción 3</option>
+</select>
 ```
