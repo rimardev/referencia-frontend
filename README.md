@@ -50,8 +50,8 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 ### 10. **Git y Github**
    - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/01-Git.md)
    - Referencia rapida oficial.
-   - [Documentacion Oficial](https://git-scm.com/book/es/v2)
-   - [Descarga Manual Oficial Git Español](https://github.com/progit/progit2-es/releases/download/2.1.23/progit.pdf)
+   - [Documentacion Oficial](https://git-scm.com/docs)
+   - [Descarga Manual Oficial Git Español](https://git-scm.com/book/es/v2)
 
 ---
 Readme en construccion....
