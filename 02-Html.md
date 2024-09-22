@@ -114,3 +114,29 @@ En HTML, el elemento `<select>` se utiliza para crear un menú desplegable donde
 - `multiple`: Permite seleccionar más de una opción (si se especifica).
 - `disabled`: Desactiva el menú desplegable.
 - `size`: Define cuántas opciones se muestran al mismo tiempo (sin desplegar).
+
+### Ejemplos con atributos
+- Seleccion desplegable
+```html
+<form action="/submit" method="post">
+  <label for="frutas">Selecciona una fruta:</label>
+  <select name="frutas" id="frutas">
+    <option value="manzana">Manzana</option>
+    <option value="naranja">Naranja</option>
+    <option value="banana">Banana</option>
+  </select>
+  <button type="submit">Enviar</button>
+</form>
+```
+- Seleccion multiple
+```html
+<form action="/submit" method="post">
+  <label for="lenguajes">Selecciona tus lenguajes favoritos:</label>
+  <select name="lenguajes" id="lenguajes" multiple size="3">
+    <option value="html">HTML</option>
+    <option value="css">CSS</option>
+    <option value="javascript">JavaScript</option>
+  </select>
+  <button type="submit">Enviar</button>
+</form>
+```
