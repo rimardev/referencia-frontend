@@ -1,6 +1,6 @@
-## Referencia de Flexbox CSS.
+# Referencia de Flexbox CSS.
 
-### Propiedades del Contenedor Flex
+## Propiedades del Contenedor Flex
 
 | Propiedad       | Descripción                                                                                                                                           |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,7 +12,7 @@
 | `align-content` | Alinea las líneas del contenedor cuando hay espacio adicional en el eje transversal. Solo aplica cuando hay múltiples líneas: [`flex-start`] [`flex-end`] [`center`] [`space-between`] [`space-around`] [`stretch`]. |
 | `gap`           | Define la separación entre los items (espacio entre filas y columnas).                                                                   |
 
-### Propiedades de los Flex Items
+## Propiedades de los Flex Items
 
 | Propiedad    | Descripción                                                                                               |
 |--------------|-----------------------------------------------------------------------------------------------------------|
