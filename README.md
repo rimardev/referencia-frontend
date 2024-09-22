@@ -19,7 +19,6 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 
 ### 3. **Flexbox**
    - [Guía rápida de Flexbox](https://github.com/rimardev/referencia-frontend/blob/main/04-Flexbox.md)
-   - Alineación, distribución y manipulación de elementos en un contenedor flexible.
    - [Documentación externa Flexbox (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
    - [Guía externa de Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
    - [Poster de Flexbox (CSS Tricks)](https://github.com/rimardev/referencia-frontend/blob/main/img/css-flexbox-poster.png)
