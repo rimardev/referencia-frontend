@@ -1,5 +1,5 @@
 # CSS: Transiciones, Transformaciones y Animaciones
-## Transiciones (transitions)
+## Transiciones (transition)
 La propiedad transition en CSS permite que los cambios en los estilos (como color, tamaño, etc.) ocurran de manera suave en lugar de instantánea. Define las propiedades que cambiaran, la duración, el tipo de animación como lineal o acelerada.
 | **Componente**              | **Descripción**                                                | **Ejemplo**                            |
 |-----------------------------|----------------------------------------------------------------|----------------------------------------|
@@ -12,7 +12,7 @@ Si bien los componenetes se pueden usar por separado lo habitual es usarlo en un
 
 `transition: [property][duration][timing-function][delay]`;
 
-### Ejemplo:
+### Ejemplo de uso
 ```css
 .elemento {
   transition: background-color 0.5s ease-in 0.2s;
@@ -34,6 +34,7 @@ Si bien los componenetes se pueden usar por separado lo habitual es usarlo en un
 | `step-end`     | La transición se realiza de forma instantánea al final (salto abrupto).          |
 | `steps(n, start/end)` | Divide la transición en "n" pasos discretos. Con `start` o `end` define si el cambio ocurre al inicio o al final de cada paso. |
 | `cubic-bezier(x1, y1, x2, y2)` | Permite definir una curva personalizada para la transición, usando puntos de control Bézier.  |
+Nota: La opción cubic-bezier es la más avanzada, ya que te permite personalizar la curva de aceleración.
 
 
 ## Transformaciones (transform)
