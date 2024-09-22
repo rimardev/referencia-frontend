@@ -30,6 +30,7 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - Definición de áreas, columnas y filas.
    - [Documentación CSS Grid (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout)
    - [Guía de CSS Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
+   - [Poster de Grid (CSS Tricks)](https://github.com/rimardev/referencia-frontend/blob/main/img/css-grid-poster.png)
 
 ### 5. **Media Queries**
    - Adaptación de diseños a diferentes tamaños de pantalla.
