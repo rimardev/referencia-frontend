@@ -1,6 +1,6 @@
-## Referencia Media Queries.
+# Referencia Media Queries.
 
-### Tabla de Breakpoints referenciales de Bootstrap
+## Tabla de Breakpoints referenciales de Bootstrap
 
 | **Breakpoint**       | **Dimension**   | **Class Bootstrap**  |
 |----------------------|-----------------|----------------------|
@@ -11,9 +11,7 @@
 | Extra large          | `≥1200px`       | _xl_                 |
 | Extra extra large    | `≥1400px`       | _xxl_                |
 
----
-
-### Ejemplo de Uso
+## Ejemplo de Uso
 
 ```css
 @media (min-width: 576px) {
@@ -24,7 +22,8 @@
 ```
 Este ejemplo cambia el color de fondo a negro cuando el ancho de la pantalla es menor o igual a 576px.
 
-### Resumen - Media Queries
+---
+## Resumen - Media Queries
 
 **Media Query**: Un bloque de CSS que se ejecuta bajo ciertas condiciones, generalmente relacionadas con el ancho de la pantalla (breakpoints).
 
@@ -42,5 +41,6 @@ Este ejemplo cambia el color de fondo a negro cuando el ancho de la pantalla es 
 
 **Operador** `and`: Permite combinar varias condiciones en un solo breakpoint, como el ancho mínimo y máximo de un dispositivo.
 
-### Condiciones en Media Queries
+---
+## Condiciones en Media Queries
 Las más comunes son el ancho (`min-width`, `max-width`), pero también se puede usar la orientación del dispositivo (`landscape`, `portrait`).
