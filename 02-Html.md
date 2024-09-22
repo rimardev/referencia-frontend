@@ -99,7 +99,7 @@
 </html>
 ```
 ---
-## Extructura de Tag select
+## Extructura de Tag `<select>`
 En HTML, el elemento `<select>` se utiliza para crear un menú desplegable donde el usuario puede seleccionar una opción o varias opciones de una lista.
 ### Sintaxis basica
 ```html
