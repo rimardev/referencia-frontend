@@ -8,17 +8,15 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 
 ### 1. **HTML**
    - Estructura básica de un documento HTML.
-   - [Etiquetas semánticas](https://github.com/rimardev/referencia-frontend/blob/main/02-Html.md)
+   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/02-Html.md)
    - [Documentación externa de HTML (MDN)](https://developer.mozilla.org/es/docs/Web/HTML)
 
 ### 2. **CSS**
-   - Selectores y combinadores.
-   - Propiedades comunes (colores, fuentes, bordes, etc.).
-   - Buenas prácticas para escribir CSS limpio y mantenible.
+   - Referencia rapida.   
    - [Documentación externa de CSS (MDN)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ### 3. **Flexbox**
-   - [Guía rápida de Flexbox](https://github.com/rimardev/referencia-frontend/blob/main/04-Flexbox.md)
+   - [Referencia rápida de Flexbox](https://github.com/rimardev/referencia-frontend/blob/main/04-Flexbox.md)
    - [Documentación externa Flexbox (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
    - [Guía externa de Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
    - [Poster de Flexbox (CSS Tricks)](https://github.com/rimardev/referencia-frontend/blob/main/img/css-flexbox-poster.png)
