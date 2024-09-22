@@ -23,6 +23,7 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - Alineación, distribución y manipulación de elementos en un contenedor flexible.
    - [Documentación Flexbox (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
    - [Guía de Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+   - [Poster de Flexbox (CSS Tricks)](https://github.com/rimardev/referencia-frontend/blob/main/img/css-flexbox-poster.png)
 
 ### 4. **Grid**
    - Cómo crear diseños con CSS Grid.
