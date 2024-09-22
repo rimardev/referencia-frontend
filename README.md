@@ -52,5 +52,7 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - Control de duración, repetición y sincronización de las animaciones.
    - [Documentación Animaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/animation)
 
+### 10. **Git y Github**
+
 ---
 Readme en construccion....
