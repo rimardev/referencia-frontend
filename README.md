@@ -7,11 +7,11 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 ## Contenidos
 
 ### 1. **HTML**
-   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/02-Html.md)
+   - [Referencia rapida HTML](https://github.com/rimardev/referencia-frontend/blob/main/02-Html.md)
    - [Documentación externa de HTML (MDN)](https://developer.mozilla.org/es/docs/Web/HTML)
 
 ### 2. **CSS**
-   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/03-Css.md)   
+   - [Referencia rapida CSS](https://github.com/rimardev/referencia-frontend/blob/main/03-Css.md)   
    - [Documentación externa de CSS (MDN)](https://developer.mozilla.org/es/docs/Web/CSS)
 
 ### 3. **Flexbox**
@@ -21,33 +21,31 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - [Poster de Flexbox (CSS Tricks)](https://github.com/rimardev/referencia-frontend/blob/main/img/css-flexbox-poster.png)
 
 ### 4. **Grid**
-   - Cómo crear diseños con CSS Grid.
-   - Definición de áreas, columnas y filas.
+   - Referencia rapida de Grid.
    - [Documentación externa CSS Grid (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_grid_layout)
    - [Guía externa de CSS Grid (CSS Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)
    - [Poster de Grid (CSS Tricks)](https://github.com/rimardev/referencia-frontend/blob/main/img/css-grid-poster.png)
 
 ### 5. **Media Queries**
-   - Adaptación de diseños a diferentes tamaños de pantalla.
+   - Referencia rapida.
    - Ejemplos prácticos para diseño responsive.
    - [Documentación externa Media Queries (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries)
 
 ### 6. **Transiciones**
-   - Aplicación de transiciones suaves a cambios de estilo.
-   - Propiedades principales (`transition-property`, `transition-duration`, `transition-timing-function`, `transition-delay`).
+   - Referencia rapida.
    - [Documentación externa Transiciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 ### 7. **Transformaciones**
-   - Rotar, escalar, inclinar y trasladar elementos con CSS.
-   - Uso de `transform` y sus diferentes funciones.
+   - Referencia rapida.
    - [Documentación externa Transformaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/transform)
 
 ### 8. **Animaciones**
-   - Creación de animaciones personalizadas con `@keyframes`.
-   - Control de duración, repetición y sincronización de las animaciones.
+   - Referencia rapida.
    - [Documentación externa Animaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/animation)
 
 ### 10. **Git y Github**
+   - Referencia rapida.
+   - Documentacion externa.
 
 ---
 Readme en construccion....
