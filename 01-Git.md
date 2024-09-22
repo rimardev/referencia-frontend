@@ -11,7 +11,7 @@ git config --global core.autocrlf true
 ``` css
 git config --list
 ```
-
+---
 ## Configuracion SSH
 ### Configuracion en mi maquina
 
