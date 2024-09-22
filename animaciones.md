@@ -1,9 +1,7 @@
 # CSS: Transiciones, Transformaciones y Animaciones
 ## Transiciones (transitions)
 
-La propiedad transition en CSS permite crear animaciones suaves y graduales al cambiar las propiedades de un elemento HTML. Se utiliza para definir cómo y cuándo ocurren estos cambios, proporcionando una experiencia visual más agradable.
-
-transition: property duration timing-function delay;
+La propiedad transition en CSS permite que los cambios en los estilos (como color, tamaño, etc.) ocurran de manera suave en lugar de instantánea. Define las propiedades que cambiaran, la duración, el tipo de animación como lineal o acelerada.
 
 ## Transformaciones (transform)
 
