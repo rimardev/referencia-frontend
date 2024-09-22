@@ -32,15 +32,15 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
    - [Documentación externa Media Queries (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries)
 
 ### 6. **Transiciones**
-   - Referencia rapida.
+   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/07-Animacion.md)
    - [Documentación externa Transiciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 
 ### 7. **Transformaciones**
-   - Referencia rapida.
+   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/07-Animacion.md)
    - [Documentación externa Transformaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/transform)
 
 ### 8. **Animaciones**
-   - Referencia rapida.
+   - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/07-Animacion.md)
    - [Documentación externa Animaciones (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/animation)
 
 ### 10. **Git y Github**
