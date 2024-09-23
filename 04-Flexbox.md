@@ -4,7 +4,7 @@
 
 | Propiedad       | Descripción                                                                                                                                           |
 |-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `display`       | Define un elemento como contenedor flex. Valor común: [`flex`] [`inline-flex`].                                                                       |
+| `display`       | Define un elemento como contenedor flex: [`flex`] [`inline-flex`].                                                                       |
 | `flex-direction`| Dirección en la que se colocarán los items dentro del contenedor: [`row`] [`row-reverse`] [`column`] [`column-reverse`].   |
 | `flex-wrap`     | Define si los items deben ajustarse o no a múltiples líneas: [`nowrap`] [`wrap`] [`wrap-reverse`].                                  |
 | `justify-content`| Alinea los items a lo largo del eje principal: [`flex-start`] [`flex-end`] [`center`] [`space-between`] [`space-around`] [`space-evenly`]. |
