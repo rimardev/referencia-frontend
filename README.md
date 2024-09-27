@@ -28,7 +28,6 @@ Este repositorio está diseñado como una **referencia rápida** para desarrollo
 
 ### 5. **Media Queries**
    - [Referencia rapida](https://github.com/rimardev/referencia-frontend/blob/main/06-Media.md)
-   - Ejemplos prácticos para diseño responsive.
    - [Documentación externa Media Queries (MDN)](https://developer.mozilla.org/es/docs/Web/CSS/Media_Queries)
 
 ### 6. **Transiciones**
