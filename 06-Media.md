@@ -16,7 +16,7 @@
 ```css
 @media (min-width: 576px) {
     body {
-        background: black;
+        background-color: black;
     }
 }
 ```
